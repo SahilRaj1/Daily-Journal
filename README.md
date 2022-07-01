@@ -1,3 +1,3 @@
 # Daily-Journal
 
-## https://arrogant-chesterfield-34723.herokuapp.com/
+## Deployed : https://arrogant-chesterfield-34723.herokuapp.com/
